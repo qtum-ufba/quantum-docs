@@ -1,4 +1,4 @@
-# Quantum_Map - Mapeamento do Ecossistema Quântico
+# Mapeamento do Ecossistema Quântico
 
 > **Projeto de Iniciação Científica (IC) em Computação Quântica**  
 > Documentação inicial, glossário e estado da arte.
