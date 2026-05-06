@@ -26,7 +26,7 @@ Cada módulo deste mapeamento possui sua própria página no menu.
 *   [`modulo1-hardware.md`](modulo1-hardware.md) - O Hardware Quântico e a Indústria
 *   [`modulo2-nuvem.md`](modulo2-nuvem.md) - Simuladores e Computação em Nuvem
 *   [`modulo3-software.md`](modulo3-software.md) - O Stack de Software e Frameworks
-*[`modulo4-geopolitica.md`](modulo4-geopolitica.md) - Geopolítica, Instituições e Mercado Real
+*   [`modulo4-geopolitica.md`](modulo4-geopolitica.md) - Geopolítica, Instituições e Mercado Real
 *   [`modulo5-historia.md`](modulo5-historia.md) - Os Pioneiros e a História
 
 ---
