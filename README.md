@@ -3,6 +3,8 @@
 > **Projeto de Iniciação Científica (IC) em Computação Quântica**  
 > Documentação inicial, glossário e estado da arte.
 
+**🔗 [Acesse o nosso site publicado aqui](https://qtum-ufba.github.io/quantum-docs/)
+
 ## Introdução
 Antes de mergulharmos nas equações de mecânica quântica, álgebra linear e na programação de algoritmos complexos, o nosso primeiro passo será entender o ecossistema global da Computação Quântica.
 
