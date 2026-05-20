@@ -57,3 +57,11 @@ O ecossistema quântico não serve apenas para processar dados. O controle da ma
 1. **Sensoriamento Quântico:** Sensores que utilizam estados quânticos para medir gravidade, tempo e campos magnéticos com precisão absurda. Aplicações incluem navegação de submarinos sem uso de GPS, detecção de minerais no subsolo e exames médicos (como ressonâncias magnéticas moleculares).
 2. **Criptografia Quântica (QKD - Quantum Key Distribution):** Uso de fótons para criar chaves criptográficas inquebráveis. Se um hacker tentar interceptar a chave, as leis da física (teorema do não-clonamento) garantem que o dado seja corrompido, alertando as partes imediatamente.
 3. **QRNG (Quantum Random Number Generators):** Geradores de números verdadeiramente aleatórios. Ao contrário dos computadores clássicos que usam fórmulas matemáticas previsíveis (pseudo-aleatoriedade), dispositivos QRNG extraem entropia da imprevisibilidade fundamental da mecânica quântica, aumentando drasticamente a segurança cibernética.
+
+## 6. Referências Bibliográficas
+
+* **IBM Quantum & Qiskit:** Documentação oficial sobre a arquitetura de processadores supercondutores e a métrica de Volume Quântico (Quantum Volume). Disponível em: https://quantum-computing.ibm.com/ e https://qiskit.org/textbook
+* **Google Quantum AI:** Dados e publicações sobre a demonstração de supremacia quântica e arquitetura Sycamore. Disponível em: https://quantumai.google/
+* **IonQ e Xanadu:** Especificações técnicas sobre as abordagens físicas de Íons Armadilhados e Computação Fotônica, respectivamente. Disponíveis em: https://ionq.com/technology e https://www.xanadu.ai/photonic-quantum-computing
+* **SENAI CIMATEC:** Informações sobre o desenvolvimento do ecossistema quântico brasileiro e infraestrutura de simulação. Disponível em: https://senaicimatec.com.br/
+* **CBPF (Centro Brasileiro de Pesquisas Físicas):** Portal nacional de pesquisas e publicações em física teórica e quântica. Disponível em: https://www.gov.br/cbpf/
